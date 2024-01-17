@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Final_Exam {
+public class reverseString {
 
     public static String reverseString(String str) {
         String reverse = "";
